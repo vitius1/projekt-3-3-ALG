@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1557247121 source:c:\users\vitek\documents\nová složka\projekt\main.cpp
+	<iostream>
+	"Bezec.h"
+	"Zavod.h"
+	"Const.h"
+
+1557240515 source:c:\users\vitek\documents\nová složka\projekt\src\bezec.cpp
+	"Bezec.h"
+	<iostream>
+
+1557242988 c:\users\vitek\documents\nová složka\projekt\include\bezec.h
+	"Vstup.h"
+	"Const.h"
+
+1557244978 source:c:\users\vitek\documents\nová složka\projekt\src\zavod.cpp
+	"Zavod.h"
+	<iostream>
+
+1557245347 c:\users\vitek\documents\nová složka\projekt\include\zavod.h
+	"Bezec.h"
+	"Vstup.h"
+	"Const.h"
+
+1556385821 c:\users\vitek\documents\nová složka\projekt\include\vstup.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+
+1556385595 source:c:\users\vitek\documents\nová složka\projekt\src\vstup.cpp
+	"Vstup.h"
+
+1557243445 c:\users\vitek\documents\nová složka\projekt\include\const.h
+
+1557242559 source:c:\users\vitek\documents\nová složka\projekt\src\const.cpp
+	"Const.h"
+
